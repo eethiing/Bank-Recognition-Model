@@ -21,8 +21,6 @@ from sklearn import metrics
 
 st.sidebar.title("Pattern Recognition Assignment")
 
-st.sidebar.info("**Project Designed By:** \n\n Chow Zheng Xuan  1191302602 \n\n  Wong Ee Thiing  1181100509 \n\n  Mohamad Hizzudin Bin Mohamad Hanafiah  1181101153  \n\n  Vinod A/L Raghu  1181102022")
-
 st.title('Bank Recognition System')
 
 st.write("Reference <br> 1 - Citibank <br> 2 - MBSB Bank <br> 3 - Agro Bank <br> 4 - CIMB Bank <br> 5 - Maybank", unsafe_allow_html=True)
